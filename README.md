@@ -1,6 +1,6 @@
 # my-vscode-react-settings
 
-## prettier
+## .prettierrc
 
 ```
 {

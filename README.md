@@ -18,3 +18,16 @@
 `semi`: ;(세미콜론) 사용여부
 
 `singleQuote`: 문자열 사용시 '' 또는 "" 지정. (true: '', false: "")
+
+## jsconfig.json
+
+```json
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
+```
+
+Source의 BaseUrl을 src로 설정.
